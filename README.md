@@ -2,6 +2,7 @@
 
 - [What Is the European Accessibility Act (EAA)?](#what-is-the-european-accessibility-act-eaa)
 - [What You Should Be Doing Now](#what-you-should-be-doing-now)
+- [Aquent Gymnasium: Free Accessibility Courses](#aquent-gymnasium-free-accessibility-courses)
 
 ## What Is the European Accessibility Act (EAA)?
 
@@ -51,7 +52,7 @@ What teams need to focus on to ensure compliance and success with the EAA:
 
 - Write accessible copy and content
 - Make PDFs, videos, audio, and images accessible
-- Use inclusive language and  representation
+- Use inclusive language and representation
 
 ### Product Managers & Teams
 
@@ -59,3 +60,15 @@ What teams need to focus on to ensure compliance and success with the EAA:
 - Test with real users, not just automation
 - Encourage collaboration between design, dev, and content teams
 - Establish feedback loops for flagging accessibility issues in your products
+
+## Aquent Gymnasium: Free Accessibility Courses
+
+Explore our free collection of accessibility courses, tutorials, webinars, articles, resources, and services at [Aquent Gymnasium](https://thegymnasium.com).
+
+- [Gymnasium: Accessibility Collection](https://thegymnasium.com/accessibility/)
+
+### About Gymnasium
+
+Aquent Gymnasium offers free online courses and tutorials for digital, creative, and communications professionals, helping them equip in-demand skills in design, development, UX, prototyping, and accessibility.
+
+Whether you’re looking to dive deep or pick up a new skill, [explore our free courses](https://thegymnasium.com/courses/) now.
