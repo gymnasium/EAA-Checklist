@@ -1,11 +1,11 @@
 # The European Accessibility Act (EAA) Checklist
 
-- [What is the European Accessibility Act (EAA)?](#what-is-the-european-accessibility-act-eaa)
+- [What Is the European Accessibility Act (EAA)?](#what-is-the-european-accessibility-act-eaa)
 - [What You Should Be Doing Now](#what-you-should-be-doing-now)
 
-## What is the European Accessibility Act (EAA)?
+## What Is the European Accessibility Act (EAA)?
 
-### The EAA in a nutshell
+### The EAA in a Nutshell
 
 - The EAA mandates that many products and services must be accessible — and the law comes into effect in June 2025.
 - The EAA also represents a massive opportunity for your business:
@@ -13,7 +13,7 @@
     - Improves the usability of your products and services.
     - Strengthens your brand and relationship with customers.
 
-### What is the goal of the EAA?
+### What Is the Goal of the EAA?
 
 A harmonised approach to define, standardize, and enforce what it means to be accessible across the EU.
 
