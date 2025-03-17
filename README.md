@@ -63,7 +63,7 @@ What teams need to focus on to ensure compliance and success with the EAA:
 
 ## Aquent Gymnasium: Free Accessibility Courses
 
-Explore our free collection of accessibility courses, tutorials, webinars, articles, resources, and services at [Aquent Gymnasium](https://thegymnasium.com).
+Explore our free collection of accessibility courses, tutorials, webinars, articles, resources, and services.
 
 - [Gymnasium: Accessibility Collection](https://thegymnasium.com/accessibility/)
 
