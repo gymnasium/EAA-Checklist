@@ -31,7 +31,7 @@ What teams need to focus on to ensure compliance and success with the EAA:
 ### Executives & Business Leaders
 
 - Assess current compliance and risk exposure
-- Establish leadership buy-In and accountability
+- Establish leadership buy-in and accountability
 - Integrate accessibility into business operations
 - Ensure regular monitoring and testing
 
